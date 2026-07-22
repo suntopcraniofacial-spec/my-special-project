@@ -3,21 +3,17 @@ html<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <!-- SEO Meta Tags for Google Search Ranking -->
     <title>Suntop Craniofacial & Dental Clinic | Best Dental Clinic in Benin City</title>
     <meta name="description" content="Looking for an affordable, highly recommended dental clinic in Benin City? Suntop Dental Clinic offers expert braces, teeth whitening, teeth cleaning, painless extractions, fillings, and advanced maxillofacial surgery at Uselu and Muritala Muhammad Way.">
     <meta name="keywords" content="best dental clinic in benin city, dental clinic near me, highly recommended dental clinic in benin, affordable dental clinic in benin, where can i do braces in benin, teeth whitening in benin, teeth cleaning benin, tooth extraction cost benin, teeth filling benin, NHIS dentist benin, HMO dental clinic benin, cleft lip surgery benin city, maxillofacial surgeon edo state, ubth dentist alternative benin, jaw swelling surgery in edo state, specialist dental treatment in edo state, where can i have my rct, what is the price of tooth fill, tooth cleaning, braces, implant dental in benin, what is the price of teeth whitening, teeth cleaning in benin, what is the price of tooth extraction in benin">
     <meta name="author" content="Suntop Craniofacial and Dental Clinic">
-    
     <!-- Open Graph Meta Tags for Social Media Sharing -->
     <meta property="og:title" content="Suntop Craniofacial & Dental Clinic | Best Dental Clinic in Benin City">
     <meta property="og:description" content="Affordable and highly recommended dental care in Benin City. Visit our offices at Uselu and Muritala Muhammad Way.">
     <meta property="og:type" content="website">
-
     <!-- html2pdf Library (Runs in user browser for 100% FREE PDF receipts) -->
     <script src="https://cloudflare.com"></script>
-
     <!-- Google Local Business Schema -->
     <script type="application/ld+json">
     [
@@ -87,7 +83,6 @@ html<!DOCTYPE html>
       }
     ]
     </script>
-
     <style>
         /* Global Reset & Typography */
         * {
@@ -234,7 +229,6 @@ html<!DOCTYPE html>
             font-weight: 700;
             color: #0d233a;
         }
-
         /* Treatment Pricing Cards Section */
         .pricing-section {
             max-width: 1200px;
